@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<color name="transparent">#00000000</color>    
+	<color name="text_color">#ff424242</color>
+	<color name="gray_color">#ff888888</color>
+	<color name="item_tag_bg">#ff3e75b5</color>
+	<color name="white_color">#FFFFFF</color>
+	
+</resources>
